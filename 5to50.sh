@@ -4,3 +4,4 @@ do
 	sleep 1
 	echo $i
 done
+test
